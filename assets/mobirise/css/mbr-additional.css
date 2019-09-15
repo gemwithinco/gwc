@@ -1413,8 +1413,11 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
+.cid-rC7tIqWKUd {
+  background-image: url("../../../assets/images/lexscope-xgqs-unz59y-unsplash-2000x1333.jpg");
+}
 .cid-rC1mxCNQbg {
-  padding-top: 135px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1422,7 +1425,7 @@ body {
   color: #767676;
 }
 .cid-rBgiddG5S2 {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
   background: linear-gradient(45deg, #ffffff, #ffffff);
